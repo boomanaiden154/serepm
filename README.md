@@ -1,4 +1,4 @@
-# SeRepM - Self Replicating Machine
+# SeRepM
 
-Like RepRap, but intended to actually build itself.
+Like RepRap, but intended to (maybe) actually build itself.
 
