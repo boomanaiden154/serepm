@@ -1,1 +1,4 @@
 *.FCBak
+*.bak
+*.lck
+*-backups
