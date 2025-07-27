@@ -1,0 +1,346 @@
+(footprint "IND_TAIYO_NR8040_TAY"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(tags "NR8040T220M ")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "3a127001-7c22-4235-99e7-8d2ee1dacca9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "IND_TAIYO_NR8040_TAY"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "bc1855ca-f704-470a-a57c-950ecab2a682")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4d4af7de-2e8b-43c3-8648-449b683c49cb")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "03543392-ecec-4358-965c-ee8d7b07519b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -4.2291 -4.2291)
+		(end -4.2291 4.2291)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3666d403-bc85-44b5-8f8b-8313aac3e6aa")
+	)
+	(fp_line
+		(start -4.2291 4.2291)
+		(end 4.2291 4.2291)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "dc420ceb-0d79-41c6-a1c3-a652c1cc486d")
+	)
+	(fp_line
+		(start 4.2291 -4.2291)
+		(end -4.2291 -4.2291)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8a27a790-1716-4d6d-905f-be82bf7bf9bc")
+	)
+	(fp_line
+		(start 4.2291 4.2291)
+		(end 4.2291 -4.2291)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1f7efb13-cb20-4af9-9ab8-985a0a961be1")
+	)
+	(fp_circle
+		(center -4.4577 0)
+		(end -4.3815 0)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "6431f786-54cd-4456-8ac0-404a23d9c506")
+	)
+	(fp_line
+		(start -4.3561 -4.3561)
+		(end 4.3561 -4.3561)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1e8ba8d4-028d-43fd-b303-dbc285490eaa")
+	)
+	(fp_line
+		(start -4.3561 -4.0005)
+		(end -4.3561 -4.3561)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e720406b-0c2c-4c88-a544-7c58894c3866")
+	)
+	(fp_line
+		(start -4.3561 -4.0005)
+		(end -4.3561 -4.0005)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "8d4c080c-7431-46e4-b3e6-11772b94e4ce")
+	)
+	(fp_line
+		(start -4.3561 4.0005)
+		(end -4.3561 -4.0005)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "892c43a0-6d2f-41c6-be78-914d25ac46fa")
+	)
+	(fp_line
+		(start -4.3561 4.0005)
+		(end -4.3561 4.0005)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "7dec7dd1-d41f-4101-aba6-efa673e4ea9b")
+	)
+	(fp_line
+		(start -4.3561 4.3561)
+		(end -4.3561 4.0005)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "40439c33-8eba-4109-8cce-3c573bba507b")
+	)
+	(fp_line
+		(start 4.3561 -4.3561)
+		(end 4.3561 -4.0005)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "2e7ce547-69a8-4f1a-aab8-20b687c85808")
+	)
+	(fp_line
+		(start 4.3561 -4.0005)
+		(end 4.3561 -4.0005)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "dfbadb28-5906-445c-9288-0e93e0ae81c9")
+	)
+	(fp_line
+		(start 4.3561 -4.0005)
+		(end 4.3561 4.0005)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ac8c7eeb-d1bd-4362-8e18-0fa6eb15d31d")
+	)
+	(fp_line
+		(start 4.3561 4.0005)
+		(end 4.3561 4.0005)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1da156ce-834b-404d-929d-9be62d01995b")
+	)
+	(fp_line
+		(start 4.3561 4.0005)
+		(end 4.3561 4.3561)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "28bc34a9-9767-4eeb-8a30-3c716aeac4d1")
+	)
+	(fp_line
+		(start 4.3561 4.3561)
+		(end -4.3561 4.3561)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f79e5929-5627-4b2d-95f4-c1cbad26772d")
+	)
+	(fp_line
+		(start -4.1021 -4.1021)
+		(end -4.1021 4.1021)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ea5029d7-97da-432c-aecc-350279a356c3")
+	)
+	(fp_line
+		(start -4.1021 4.1021)
+		(end 4.1021 4.1021)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "97c757d3-36e3-4070-b8dc-850b64817a0e")
+	)
+	(fp_line
+		(start 4.1021 -4.1021)
+		(end -4.1021 -4.1021)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "65239fb7-f4c0-4a10-8e66-2b9871067b00")
+	)
+	(fp_line
+		(start 4.1021 4.1021)
+		(end 4.1021 -4.1021)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "67213608-1219-4b0a-b232-7c21e0e42fab")
+	)
+	(fp_circle
+		(center -4.0259 0)
+		(end -3.9497 0)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "ded1d264-fee3-43e3-82e1-4554d0c7e018")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "d3d97787-c62d-4c20-82f2-c63827bbd448")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -2.80035 0)
+		(size 1.7907 7.493)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "ff5f526c-e317-433c-8a0d-6b9274ef1d3a")
+	)
+	(pad "2" smd rect
+		(at 2.80035 0)
+		(size 1.7907 7.493)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "a09220d9-2247-4c2a-8b51-70209a3b608b")
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layer "F.Cu")
+		(uuid "c5bcd2e3-2c47-4e1a-a208-69414b2e795c")
+		(hatch full 0.508)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.254)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks not_allowed)
+			(vias not_allowed)
+			(pads allowed)
+			(copperpour not_allowed)
+			(footprints allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.508)
+			(thermal_bridge_width 0.508)
+		)
+		(polygon
+			(pts
+				(xy -1.8542 -4.0513) (xy 1.8542 -4.0513) (xy 1.8542 4.0513) (xy -1.8542 4.0513)
+			)
+		)
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/../3D/IND_TAIYO_NR8040_TAY.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)
